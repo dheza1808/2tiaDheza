@@ -16,7 +16,7 @@ function App() {
     <Router>
       <Routes>
         <Route element = {<GuestLayout />}>
-          <Route path="/guest" element={<HeroSection/>} />
+          <Route path="/" element={<HeroSection/>} />
           <Route path="/about" element={<AboutSection/>} /> 
           <Route path="/products" element={<TopProducts />} /> 
           <Route path="/testimonials" element={<Testimoni />} />
