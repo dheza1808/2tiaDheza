@@ -16,7 +16,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 z-10 text-white">
         <div className="max-w-xl">
           <span className="text-green-400 bg-green-900 bg-opacity-50 px-4 py-1 rounded-full text-sm font-medium uppercase tracking-wide">
-            Aplikasi Kuliner Indonesia
+            Aplikasi Kuliner Indonesia yang Lezat
           </span>
           <h1 className="text-5xl md:text-6xl font-bold mt-4 mb-6">
             Nikmati Kelezatan Makanan Indonesia
