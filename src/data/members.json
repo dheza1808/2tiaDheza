@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": "M001",
+    "nama": "Budi Santoso",
+    "email": "budi.santoso@email.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M002",
+    "nama": "Siti Nurhaliza",
+    "email": "siti@email.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": "M003",
+    "nama": "Ahmad Dahlan",
+    "email": "ahmad.dahlan@email.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": "M004",
+    "nama": "Dewi Kartika",
+    "email": "dewi.k@email.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M005",
+    "nama": "Joko Widodo",
+    "email": "joko@email.com",
+    "tipe_member": "platinum"
+  }
+]

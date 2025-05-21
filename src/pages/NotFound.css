@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+.notfound-container {
+  height: 80vh;
+  width: 100%;
+  background-image: url('/404Page.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Fredoka', sans-serif;
+}
+
+/* Area teks pesan */
+.notfound-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Angka 404 */
+.notfound-message h1 {
+  font-size: 6rem;
+  margin: 0;
+  font-weight: 600;
+  color: #e0d9f6;
+}
+
+/* Teks “Page not found!” */
+.notfound-message p {
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 600;
+  color: #e0d9f6;
+}
+
+/* Tombol kembali */
+.notfound-btn {
+  margin-top: 40px;
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Panah kiri */
+.notfound-btn::before {
+  content: "←";
+  font-size: 1.2rem;
+}
+
+/* Hover efek */
+.notfound-btn:hover {
+  text-decoration: underline;
+}
+
+/* Responsif */
+@media (max-width: 600px) {
+  .notfound-message h1 {
+    font-size: 4rem;
+  }
+
+  .notfound-message p {
+    font-size: 1.5rem;
+  }
+
+  .notfound-btn {
+    font-size: 1rem;
+  }
+}

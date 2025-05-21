@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial",
+    "description": "Nasi goreng dengan bumbu rempah pilihan, telur, ayam, dan sayuran segar",
+    "price": 35000,
+    "image": "/img/nasgorSpesial.jpg",
+    "category": "Makanan Utama"
+  },
+  {
+    "id": 2,
+    "name": "Sate Ayam",
+    "description": "Sate ayam dengan bumbu kacang khas Indonesia dan lontong",
+    "price": 28000,
+    "image": "/img/sateAyam.jpg",
+    "category": "Makanan Utama"
+  },
+  {
+    "id": 3,
+    "name": "Keripik Tempe",
+    "description": "Keripik tempe renyah dengan bumbu tradisional",
+    "price": 15000,
+    "image": "/img/keripikTempe.jpg",
+    "category": "Makanan Ringan"
+  },
+  {
+    "id": 4,
+    "name": "Es Teh Manis",
+    "description": "Teh manis segar dengan es batu",
+    "price": 8000,
+    "image": "/img/esTeh.jpg",
+    "category": "Minuman"
+  },
+  {
+    "id": 5,
+    "name": "Rendang Sapi",
+    "description": "Daging sapi yang dimasak dengan rempah-rempah khas Padang",
+    "price": 45000,
+    "image": "/img/rendangSapi.jpg",
+    "category": "Makanan Utama"
+  },
+  {
+    "id": 6,
+    "name": "Es Jeruk",
+    "description": "Jus jeruk segar dengan es",
+    "price": 10000,
+    "image": "/img/esJeruk.jpg",
+    "category": "Minuman"
+  },
+  {
+    "id": 7,
+    "name": "Pisang Goreng",
+    "description": "Pisang goreng renyah dengan taburan gula",
+    "price": 12000,
+    "image": "/img/pisangGoreng.jpg",
+    "category": "Makanan Ringan"
+  },
+  {
+    "id": 8,
+    "name": "Gado-gado",
+    "description": "Sayuran segar dengan saus kacang dan kerupuk",
+    "price": 25000,
+    "image": "/img/gadoGado.jpg",
+    "category": "Makanan Utama"
+  }
+]

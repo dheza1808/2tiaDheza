@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "avatar": "https://avatar.iran.liara.run/public/1",
+      "rating": 5,
+      "comment": "Aplikasi Sedap sangat membantu saya dalam memesan makanan Indonesia yang otentik. Pengiriman cepat dan makanan selalu dalam kondisi hangat. Sangat direkomendasikan!"
+    },
+    {
+      "id": 82,
+      "name": "Siti Rahayu",
+      "avatar": "https://avatar.iran.liara.run/public/82",
+      "rating": 5,
+      "comment": "Saya suka sekali dengan variasi menu yang ditawarkan. Dari Sabang sampai Merauke, semua ada di Sedap. Harga juga sangat terjangkau untuk kualitas makanan yang disajikan."
+    },
+    {
+      "id": 32,
+      "name": "Ahmad Farhan",
+      "avatar": "https://avatar.iran.liara.run/public/32",
+      "rating": 4,
+      "comment": "Interface aplikasi sangat user-friendly dan mudah digunakan. Proses pembayaran juga aman dan cepat. Saya sudah menjadi pelanggan setia selama 6 bulan."
+    },
+    {
+      "id": 69,
+      "name": "Dewi Lestari",
+      "avatar": "https://avatar.iran.liara.run/public/69",
+      "rating": 5,
+      "comment": "Kualitas makanan selalu konsisten dan lezat. Tidak perlu lagi antri di restoran favorit saya karena Sedap mengantarkannya langsung ke rumah dengan sempurna."
+    },
+    {
+      "id": 3,
+      "name": "Rudi Hartono",
+      "avatar": "https://avatar.iran.liara.run/public/3",
+      "rating": 4,
+      "comment": "Customer service sangat responsif dan ramah. Ketika ada masalah dengan pesanan saya, mereka segera mengganti dengan yang baru. Pelayanan yang luar biasa!"
+    }
+  ]
